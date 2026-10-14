@@ -4,12 +4,12 @@
 
 <!-- Тут я вставлю скрины -->
 
-[**⬇ Скачать CorkBoard.dmg**](CorkBoard.dmg)
+[**⬇ Скачать CorkBoard.dmg**]([CorkBoard.dmg](https://github.com/gor60k/CorkBoard/releases/download/v0.1.0/CorkBoard.dmg))
 
 **Требования:** Mac на Apple Silicon или Intel, macOS 14 или новее.
 ## Установка
 
-1. Скачайте **CorkBoard.dmg** по кнопке выше (или со страницы [релизов](CorkBoard.dmg)).
+1. Скачайте **CorkBoard.dmg** по кнопке выше (или со страницы [релизов]([CorkBoard.dmg](https://github.com/gor60k/CorkBoard/releases/download/v0.1.0/CorkBoard.dmg))).
 2. Откройте скачанный файл. Появится окно с приложением и папкой **Applications**.
 3. Перетащите **CorkBoard** на папку **Applications**.
 4. Закройте окно образа и извлеките его (кнопка ⏏ рядом с «CorkBoard» в боковой панели Finder). Скачанный файл можно удалить.
