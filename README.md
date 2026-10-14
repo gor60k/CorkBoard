@@ -4,7 +4,7 @@
 
 <!-- Тут я вставлю скрины -->
 
-[**⬇ Скачать CorkBoard.dmg**]([CorkBoard.dmg](https://github.com/gor60k/CorkBoard/releases/download/v0.1.0/CorkBoard.dmg))
+[**⬇ Скачать CorkBoard.dmg**](https://github.com/gor60k/CorkBoard/releases/download/v0.1.0/CorkBoard.dmg)
 
 **Требования:** Mac на Apple Silicon или Intel, macOS 14 или новее.
 ## Установка
